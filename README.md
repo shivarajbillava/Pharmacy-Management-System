@@ -1,5 +1,5 @@
 # Pharmacy-Management-System
-Pharmacy management systems are essential tools for efficiently managing and organizing the various tasks involved in running a pharmacy.  We used PHP, HTML, CSS, JavaScript, MySQL for development, Also XAMPP as developing environment.
+Pharmacy management systems are essential tools for efficiently managing and organizing the various tasks involved to run a pharmacy Sore.Implemented using PHP, HTML, CSS, JavaScript, MySQL for development, Also XAMPP as developing environment.
 
 DBMS PROJECT - Using PHP, MySQL, HTML, CSS
 
